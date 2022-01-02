@@ -6,7 +6,7 @@ status of employees. The notebook includes a brief description of the dataset, f
 data cleaning, feature exploration, an application of logistic regression, and a write-up of
 results and conclusions.
 
-###Python Libraries:###
+###Python Libraries:
 
 Pandas
 Numpy
@@ -14,11 +14,16 @@ Matplotlib
 Seaborn
 Scikit Learn
 
-###Data:###
+###Data:
 
 HR Dataset (Updated 4/2021)
+
 Authors: Dr. Rich Huebuer, Carla Patalono
+
 Description of Dataset: https://rpubs.com/rhuebner/hrd_cb_v14
+
 311 Observations
+
 36 Features
+
 Target Variable: Termd (Termination Status: Active employee= 0, Terminated Employee= 1)
