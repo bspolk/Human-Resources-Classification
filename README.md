@@ -1,10 +1,10 @@
-# Human-Resources-Regression
- Logistic Regression Classification of Human Resource Data
+# Human-Resources-Classification
+Classification and Analysis of Termination Status using Human Resource Data
 
-This project is a classification problem utilizing human resource data to predict the termination
+This project is a supervised classification problem utilizing human resource data to predict the termination
 status of employees. The notebook includes a brief description of the dataset, followed by some
-data cleaning, feature exploration, an application of logistic regression, and a write-up of
-results and conclusions.
+data cleaning, feature exploration, the development of several classification models, and a 
+write-up of results and conclusions.
 
 ###Python Libraries:
 
